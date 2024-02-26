@@ -4,21 +4,21 @@
 
 </div>
 
-<summary><h1>About Us 🚀</h1></summary>
+<h1>About Us 🚀</h1>
 <div>
 We're a Game Studio shaping the future of Autonomous Worlds through <a href="https://twitter.com/Starknet">Starknet</a>
 </div>
 
-<summary><h1>Achievements 🎖️</h1></summary>
+<h1>Achievements 🎖️</h1>
 <div>
 
 ![Achievements](https://github.com/amegakure-studio/.github/assets/58611754/e3177ba0-75d2-4413-9e0f-44f901fa16ab)
 
 </div>
 
-  <summary><h1>Projects 🎮</h1></summary>
+  <h1>Projects 🎮</h1>
   <div>
-      <summary><h2>Starkane ⚔️</h2></summary>
+      <h2>Starkane ⚔️</h2>
       <div style="text-align: center;">
         <img src="https://github.com/amegakure-studio/.github/assets/87950451/94c3e6d9-1409-4199-b2cf-7bc609d933eb" style="display: block; margin: 0 auto;">
     </div>
@@ -34,7 +34,7 @@ We're a Game Studio shaping the future of Autonomous Worlds through <a href="htt
           </ul>
         </li>
       </ul>
-      <summary><h2>Verdania 🌿</h2></summary>
+      <h2>Verdania 🌿</h2>
       <div style="text-align: center;">
         <img src="https://github.com/amegakure-studio/.github/assets/87950451/abd28a08-c874-4710-8c64-aae51e86c88c" style="display: block; margin: 0 auto;">
     </div>
@@ -51,7 +51,7 @@ We're a Game Studio shaping the future of Autonomous Worlds through <a href="htt
       </ul>
   </div>
 
-<summary><h1>Founders ✨</h1></summary>
+<h1>Founders ✨</h1>
 <table>
   <tbody>
     <tr>
