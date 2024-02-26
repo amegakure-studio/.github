@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://github.com/amegakure-studio/.github/assets/87950451/81c52f00-a55d-41cd-9adf-13b1096b5009" style="width:35%">  
+
+  ![Amegakure-logo](https://github.com/amegakure-studio/.github/assets/58611754/6282981f-cd18-484b-b9af-ab0142fd9396)
+
 </div>
 
 <details open>
   <summary><h1>About Us 🚀</h1></summary>
   <div>
-    We're a Micro Game Studio shaping the future of Autonomous Worlds through <a href="https://twitter.com/Starknet">Starknet</a>
+    We're a Game Studio shaping the future of Autonomous Worlds through <a href="https://twitter.com/Starknet">Starknet</a>
   </div>
 </details>
 
 <details open>
   <summary><h1>Achievements 🎖️</h1></summary>
   <div>
-    <img src="https://github.com/amegakure-studio/.github/assets/87950451/123d4feb-3603-4e4d-acb8-5e0782fcd3d6">  
+    
+  ![Achievements](https://github.com/amegakure-studio/.github/assets/58611754/e3177ba0-75d2-4413-9e0f-44f901fa16ab)
+    
   </div>
 </details>
 
