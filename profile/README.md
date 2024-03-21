@@ -1,6 +1,6 @@
 <div align="center">
-
-  ![Amegakure-logo](https://github.com/amegakure-studio/.github/assets/58611754/6282981f-cd18-484b-b9af-ab0142fd9396)
+  
+  ![amega-studio-logo](https://github.com/amegakure-studio/.github/assets/58611754/38b38cfa-9b94-480d-b649-1a10837555fa)
 
 </div>
 
